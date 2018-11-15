@@ -1,1 +1,1 @@
-test
+var test = 22;
